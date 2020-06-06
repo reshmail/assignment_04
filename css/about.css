@@ -1,0 +1,52 @@
+/*.one1{
+	width: 80%!important;
+	height: 50%!important;
+}*/
+.box1{
+	background-color: #dddddd;
+/*	height: 70%;*/
+	border:1px solid grey;
+}
+.box1 img{
+	width: 30%;
+	height: 10%;
+float: right;
+	border:9px dotted;
+	border-top: none;
+	border-right: none;
+}
+
+ p {
+color: white;
+font-size: 23px;
+word-spacing: 3px;
+padding: 20px; 
+
+
+}
+.box2{
+	border:1px solid grey;
+	background-color: #dddddd;
+	opacity: ;
+
+/*position: absolute;
+	top: 130%;*/
+}
+
+
+.image2{
+	width: 30%;
+	height:10%;
+	margin-top: -18px;
+	float: left;
+	border:9px dotted;
+	border-bottom: none;
+	border-right: none;
+}
+@media (max-width: 880px) {
+
+#name{
+	position: absolute;
+	top: -25%;
+}
+}

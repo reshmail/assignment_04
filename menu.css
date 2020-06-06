@@ -1,0 +1,7 @@
+@media (max-width: 880px) {
+
+#name{
+	position: absolute;
+	top: -25%;
+}
+}
